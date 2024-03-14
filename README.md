@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayian qaisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayian qaisar" height="30" width="40" /></a>
-<a href="https://dribbble.com/ayian qaisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ayian qaisar" height="30" width="40" /></a>
-<a href="https://www.behance.net/ayian qaisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayian qaisar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ayian-qaisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayian qaisar" height="30" width="40" /></a>
+<a href="https://dribbble.com/Ayian-Qaisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ayian qaisar" height="30" width="40" /></a>
+<a href="https://www.behance.net/ayianqaisar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ayian qaisar" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/eVmpmhjGEY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eVmpmhjGEY" height="30" width="40" /></a>
 </p>
 
