@@ -16,22 +16,16 @@
 - 🌱 Always learning new technologies and improving my skills in software development.
 - 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, or anything related to web development!
 - 🎨 Enjoy engaging in creative pursuits during my free time, whether it's sketching, crafting, or experimenting with new DIY projects.
-- ⚡ Fun fact: I love hiking and exploring new trails on weekends.
+- ⚡ Fun fact: I'm an enthusiastic chess player and enjoy participating in tournaments.
 
 <!-- Skills -->
 ## Skills 💼
 - **Languages**: ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript (ES6+), ![TypeScript](https://img.icons8.com/color/30/000000/typescript.png) TypeScript
-- **Frontend**: ![React](https://img.icons8.com/ultraviolet/30/000000/react.png) React.js, ![Next.js](https://img.icons8.com/color/30/000000/nextjs.png) Next.js, ![Remix](https://img.icons8.com/fluency/30/000000/remix-logo.png) Remix.run, HTML5, CSS3, Sass, Material-UI
-- **Backend**: ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) Node.js, ![Express.js](https://img.icons8.com/office/30/000000/node-js.png) Express.js
+- **Frontend**: ![React](https://img.icons8.com/ultraviolet/30/000000/react.png) React.js, ![Next.js](https://img.icons8.com/color/30/000000/nextjs.png) Next.js, Remix.run, HTML5, CSS3, Sass, Material-UI
+- **Backend**: ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) Node.js, ![Express.js](https://img.icons8.com/office/30/000000/express-js.png) Express.js
 - **Databases**: ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png) MongoDB, ![Firebase](https://img.icons8.com/color/30/000000/firebase.png) Firebase Firestore
 - **Tools & Technologies**: Git, VS Code, npm, RESTful APIs, Redux
 
-<!-- GitHub Stats -->
-## GitHub Stats 📈
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayian-Qaisar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayian-Qaisar&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 <!-- Snake Animation -->
 <br clear="both">
