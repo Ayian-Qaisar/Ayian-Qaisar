@@ -1,28 +1,75 @@
-<!-- Ayian Qaisar -->
-# Hi there, I'm Ayian Qaisar! 👋
+<h2 align="left">Hi 👋! My name is Ayian Qaisar and I'm a MERN stack developer, from Pakistan.</h2>
 
-I'm a passionate MERN stack developer with nearly 2 years of hands-on experience. Welcome to my GitHub profile! 🚀
+###
 
-## About Me ℹ️
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 Currently, I'm deeply involved in crafting scalable web applications using the MERN stack.
-- 🌱 I'm always on the lookout for cutting-edge technologies to enhance my skills and craft innovative solutions.
-- 💬 Let's discuss anything related to JavaScript, React, Node.js, Express, MongoDB, or web development in general!
-- 📫 Reach out to me on [LinkedIn](www.linkedin.com/in/ayian-qaisar) for professional inquiries or collaboration opportunities.
-- ⚡ Fun fact: I'm an avid creator and enjoy exploring my artistic side through sketching, crafting, and DIY projects.
+###
 
-## Skills 💼
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-- **Languages**: JavaScript (ES6+)
-- **Frontend**: React.js, Next.js, HTML5, CSS3, Sass, Liquid 
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, Mongoose
-- **Tools & Technologies**: Git, VS Code, npm, RESTful APIs
+###
 
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="30" alt="react native logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next.js logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/remix/remix-original.svg" height="30" alt="remix.run logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node.js logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express.js logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="30" alt="d3.js logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" height="30" alt="chart.js logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="material-ui logo"  />
+  </div>
+  
 
-## Let's Connect 🤝
+###
 
-- [LinkedIn](www.linkedin.com/in/ayian-qaisar)
-- [Personal Website](https://ayian-qaisar.netlify.app/)
+<div align="left">
+    <a href="https://discord.gg/eVmpmhjGEY">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    </a>
+    <a href="mailto:ayianqaisar20@gmail.com">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+    <a href="www.linkedin.com/in/ayian-qaisar">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+    <a href="https://www.behance.net/ayianqaisar">
+      <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=0057FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+    </a>
+  </div>
+  
 
-Feel free to explore my repositories and connect with me! 😊
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
