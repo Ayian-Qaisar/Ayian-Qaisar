@@ -8,7 +8,7 @@
 </p>
 
 <!-- Introduction -->
-<p align="center">Passionate MERN Stack Developer | Open-Source Enthusiast | Explorer 🚀</p>
+<p align="center">Passionate MERN Stack Developer | Explorer 🚀</p>
 
 <!-- About Me -->
 ## About Me ℹ️
