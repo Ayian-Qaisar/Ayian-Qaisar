@@ -29,7 +29,7 @@
 
 <!-- Snake Animation -->
 <br clear="both">
-<p align="center"><img src="https://raw.githubusercontent.com/Ayian-Qaisar/Ayian-Qaisar/output/github-contribution-grid-snake.svg" alt="Snake animation" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Ayian-Qaisar/Ayian-Qaisar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
 
 <!-- Footer -->
 <p align="center">Feel free to explore my repositories and don't hesitate to connect! 😊</p>
