@@ -22,7 +22,7 @@
 ## Skills 💼
 - **Languages**: ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript (ES6+), ![TypeScript](https://img.icons8.com/color/30/000000/typescript.png) TypeScript
 - **Frontend**: ![React](https://img.icons8.com/ultraviolet/30/000000/react.png) React.js, ![Next.js](https://img.icons8.com/color/30/000000/nextjs.png) Next.js, Remix.run, HTML5, CSS3, Sass, Material-UI
-- **Backend**: ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) Node.js, ![Express.js](https://img.icons8.com/office/30/000000/express-js.png) Express.js
+- **Backend**: ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) Node.js, ![Express.js](https://img.icons8.com/office/30/000000/express-js.png) Express.js, Nest.js
 - **Databases**: ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png) MongoDB, ![Firebase](https://img.icons8.com/color/30/000000/firebase.png) Firebase Firestore
 - **Tools & Technologies**: Git, VS Code, npm, RESTful APIs, Redux
 
