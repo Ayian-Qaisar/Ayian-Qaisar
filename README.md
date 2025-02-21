@@ -54,13 +54,6 @@ I'm a passionate MERN stack developer dedicated to creating exceptional web expe
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayian-Qaisar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayian-Qaisar&theme=tokyonight" alt="GitHub Streak" height="170" />
-</div>
-
 ## 🐍 Contribution Graph
 
 <div align="center">
