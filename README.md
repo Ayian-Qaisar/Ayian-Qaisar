@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm Ayian Qaisar
+# Hi there, I'm Ayian Qaisar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayian-qaisar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayianqaisar20@gmail.com)
@@ -13,17 +13,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate MERN stack developer dedicated to creating exceptional web experiences. With a strong foundation in JavaScript and modern web technologies, I build scalable and performant applications that solve real-world problems.
 
-- 🔭 Currently working on **building enterprise-level web applications with MERN stack**
-- 🌱 Always expanding my knowledge in **system architecture and cloud technologies**
-- 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB, or anything web dev!**
-- 🎨 Creative outlet: **sketching, crafting, and DIY projects**
-- ♟️ Fun fact: **I'm an enthusiastic chess player and tournament participant**
+- Currently working on **building enterprise-level web applications with MERN stack**
+- Always expanding my knowledge in **system architecture and cloud technologies**
+- Ask me about **JavaScript, React, Node.js, Express, MongoDB, or anything web dev!**
+- Creative outlet: **sketching, crafting, and DIY projects**
+- Fun fact: **I'm an enthusiastic chess player and tournament participant**
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -54,19 +54,19 @@ I'm a passionate MERN stack developer dedicated to creating exceptional web expe
 
 </div>
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ayian-Qaisar/Ayian-Qaisar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-## 🔥 Recent Projects
+## Recent Projects
 
 - **E-commerce Platform**: Built a full-stack e-commerce solution with React, Node.js, and MongoDB
 - **Task Management App**: Developed a collaborative task management tool using the MERN stack
 - **Real-time Chat Application**: Created a real-time messaging platform with Socket.io and React
 
-## 📬 Get in Touch
+## Get in Touch
 
 I'm always open to interesting conversations and collaboration opportunities. Whether you have a question or just want to say hi, feel free to reach out!
 
