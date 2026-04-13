@@ -81,5 +81,5 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ayian-Qaisar&style=flat-square&color=blue" alt="Profile views counter" />
-  <p>Thanks for visiting! Let's build something amazing together! 🚀</p>
+  <p>Thanks for visiting! Let's build something amazing together!</p>
 </div>
