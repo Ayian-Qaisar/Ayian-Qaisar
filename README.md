@@ -7,7 +7,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eVmpmhjGEY)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ayianqaisar)
 
-### **MERN Stack Developer | Problem Solver | Creative Thinker**
+### **Full Stack Developer | Problem Solver | Creative Thinker**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=435&lines=Building+scalable+web+apps;JavaScript+enthusiast;React+%26+Node.js+developer;Always+learning+new+tech" alt="Typing SVG" />
 
